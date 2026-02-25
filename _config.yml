@@ -5,7 +5,7 @@ remote_theme: hydecorp/hydejack
 plugins:
   - jekyll-remote-theme
 
-  include:
+include:
   - assets/css/custom.css
 
 author:
