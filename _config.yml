@@ -1,4 +1,3 @@
-
 title: Sara Marolt
 description: Statistical modelling | Seabird Ecology
 
@@ -6,10 +5,9 @@ remote_theme: hydecorp/hydejack
 plugins:
   - jekyll-remote-theme
 
-  author:
+author:
   name: Sara Marolt
   avatar: /assets/images/profile.jpg
-
 
 # Hydejack settings
 accent_color: rgb(0, 88, 80)   # dark teal academic vibe
