@@ -5,6 +5,9 @@ remote_theme: hydecorp/hydejack
 plugins:
   - jekyll-remote-theme
 
+  include:
+  - assets/css/custom.css
+
 author:
   name: Sara Marolt
   avatar: /assets/images/profile.jpg
