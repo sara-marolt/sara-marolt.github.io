@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Experience
-permalink: /experience/
+title: Research
+permalink: /research/
 ---
 
-# Experience
+# Research Experience
 
 ## Research Assistant  
 **Uppsala University**  
