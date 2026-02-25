@@ -1,3 +1,8 @@
-theme: minima
 title: Sara Marolt
-description:  Ecology | Bioacoustics | Seabirds
+description:  Ecologist | Bioacoustics | Seabird Ecology
+theme: minima
+
+header_pages:
+  - research.md
+  - cv.md
+  - contact.md
