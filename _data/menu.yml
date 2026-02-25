@@ -1,7 +1,9 @@
 - title: Home
   url: /
-- title: Experience
-  url: /experience/
+- title: Research
+  url: /research/
+  - title: Ringing
+  url: /ringing/
 - title: CV
   url: /cv/
 - title: Contact
