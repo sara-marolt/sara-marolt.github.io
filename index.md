@@ -4,19 +4,11 @@ title: About Me
 ---
 
 
-I'm **Sara**, an Ecology and Conservation Master's student at Uppsala University. My current thesis project, completed under the Baltic Seabird Project, is focused on modelling the spatiotemporal distribution of pelagic fish in proximity to a guillemot colony. 
+I'm **Sara**, an Ecology and Conservation Master's student at Uppsala University. I am currently working under the supervision of Jonas Hentati Sundberg with the Baltic Seabird Project at the Swedish Agricultural University. 
 
----
+My current thesis project, *Seabird mediated spatiotemporal distriution of pelagic fish in the Baltic Sea*, is focused on modelling the horizontal and vertical distribution of pelagic fish in proximity to a guillemot colony using echosounder derived data. 
 
-## Research Focus
-
-I main research focus centres around how seabirds interact with pelagic fish and how these mid-trophic species influence marine ecosystems. My work combines **hydroacoustics**, **spatial modeling in R**, and behavioral ecology.
-
-### Key Areas:
-- **Hydroacoustics** – analyzing pelagic fish distributions from echosounder data  
-- **Diel vertical migration** – understanding fish movements and predator-prey dynamics  
-- **Seabird–prey interactions** – linking predator behavior to mid-trophic dynamics  
-- **Spatial modelling in R** – mapping fish distributions  
+Prior to starting my Masters, I completed my **BSc (Hons) in Biology** at the University of St. Andrews, where my thesis looked at the *Effect of anthropogenic disturbances on the escape behaviour in Eurasian Oystercatchers*
 
 ---
 
