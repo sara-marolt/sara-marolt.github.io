@@ -4,13 +4,9 @@ description: Statistical modelling | Seabird Ecology
 remote_theme: hydecorp/hydejack
 plugins:
   - jekyll-remote-theme
-
-include:
-  - assets/css/custom.css
-
-author:
-  name: Sara Marolt
-  avatar: /assets/images/profile.jpg
+  
+image:
+  path:    /assets/images/profile.jpg
 
 menu:
   - title: Home
