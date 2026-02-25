@@ -13,14 +13,16 @@ author:
   avatar: /assets/images/profile.jpg
 
 menu:
-  - title: Blog
-    url:   /blog/
-  - title: Projects
-    url:   /projects/
-  - title: Resume
-    url:   /resume/
-  - title: About
-    url:   /about/
+  - title: Home
+    url: /
+  - title: Research
+    url: /research/
+  - title: Ringing
+    url: /ringing/
+  - title: CV
+    url: /cv/
+  - title: Contact
+    url: /contact/
 
 # Hydejack settings
 accent_color: rgb(0, 88, 80)   # dark teal academic vibe
