@@ -1,15 +1,14 @@
 ---
 layout: page
-title: Research
-permalink: /research/
+title: Ringing
+permalink: /ringing/
 ---
 
-# Research
+# Ringing
 
-## Pelagic Fish Distribution
-Using hydroacoustic survey data to examine diel vertical migration and predator-mediated effects.
+## Ottenby
+Put something about what i did in ottenby
 
-## Methods
-- Single target detection
-- School detection
-- GAM modelling
+## Landsort
+
+## UOF
