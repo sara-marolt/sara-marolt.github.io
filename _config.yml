@@ -1,7 +1,11 @@
 title: Sara Marolt
-description: Ecologist | Statistical modelling | Seabird Ecology
+description:  Ecologist | Statistical modelling | Seabird Ecology
 
-remote_theme: wowthemesnet/mediumish-theme-jekyll
-
+remote_theme: hydecorp/hydejack
 plugins:
   - jekyll-remote-theme
+
+# Hydejack settings
+accent_color: rgb(0, 88, 80)   # dark teal academic vibe
+paginate: 5
+paginate_path: "/page:num/"
