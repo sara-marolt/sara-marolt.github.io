@@ -20,8 +20,7 @@ permalink: /research/
 **RSPB, West Sussex**  
 Amberley and Pulborough Brooks 
 
-- Conducted breeding bird surveys throughout the breeding season of
-2024.
+- Conducted breeding bird surveys throughout the breeding season of 2024.
 - Conducted Wetland bird surveys (WeBS).
 - Conducted additional survey work such as butterfly, dragonfly and water vole.
 - Worked across wetland reserve completing a myriad of practical conservation tasks, biodiversity surveys and additional wetland
