@@ -3,17 +3,17 @@ layout: default
 title: About Me
 ---
 
-#Sara Marolt
+# Sara Marolt
 
-*Marine ecologist specializing in hydroacoustic methods, pelagic fish distribution, and seabird–prey interactions.*
+Marine ecologist specializing in hydroacoustic methods, pelagic fish distribution, and seabird–prey interactions.*
 
 ---
 
-##Research Focus
+## Research Focus
 
 I study how seabirds interact with pelagic fish and how these mid-trophic species influence marine ecosystems. My work combines **hydroacoustics**, **spatial modeling in R**, and behavioral ecology.
 
-###Key Areas:
+### Key Areas:
 - **Hydroacoustics** – analyzing pelagic fish distributions from echosounder data  
 - **Diel vertical migration** – understanding fish movements and predator-prey dynamics  
 - **Seabird–prey interactions** – linking predator behavior to mid-trophic dynamics  
@@ -21,7 +21,7 @@ I study how seabirds interact with pelagic fish and how these mid-trophic specie
 
 ---
 
-##Current Work
+## Current Work
 
 Currently investigating the **vertical and horizontal distribution of pelagic fish near Stora Karlsö**, linking fish behavior to seabird foraging patterns.
 
