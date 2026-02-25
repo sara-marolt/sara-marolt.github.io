@@ -13,7 +13,8 @@ permalink: /research/
 - Processed and analyzed hydroacoustic survey data  
 - Conducted single target and school detection in Echoview  
 - Built GAM models in R to examine diel vertical migration  
-- Investigated seabird–prey interactions in pelagic systems  
+- Investigated seabird–prey interactions in pelagic systems
+
 ---
 
 ## Reserves Intern  
