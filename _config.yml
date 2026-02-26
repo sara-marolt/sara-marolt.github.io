@@ -4,7 +4,8 @@ description: Seabird Ecology | Statistical modelling
 remote_theme: hydecorp/hydejack
 plugins:
   - jekyll-remote-theme
-
+include:
+  - assets/css/custom.css
 author:
   about: |
     Ecology and Conservation Masters student at Uppsala University
