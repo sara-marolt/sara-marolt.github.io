@@ -3,7 +3,7 @@ layout: default
 title: About Me
 ---
 
-<img src="/assets/img/profile.jpg" alt="Sara Marolt" width="250" style="float: right; margin-left: 20px; border-radius: 10px;">
+<img src="/assets/images/profile.jpg" alt="Sara Marolt" width="250" style="float: right; margin-left: 20px; border-radius: 10px;">
  
 I'm **Sara**, an Ecology and Conservation Master's student at Uppsala University. I am currently working under the supervision of Jonas Hentati Sundberg with the Baltic Seabird Project at the Swedish Agricultural University. 
 
