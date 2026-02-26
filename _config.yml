@@ -1,5 +1,5 @@
 title: Sara Marolt
-description: Statistical modelling | Seabird Ecology
+description: Seabird Ecology | Statistical modelling
 
 remote_theme: hydecorp/hydejack
 plugins:
@@ -21,8 +21,6 @@ menu:
     url: /ringing/
   - title: CV
     url: /cv/
-  - title: Contact
-    url: /contact/
 
 # Hydejack settings
 accent_color: rgb(0, 88, 80)
