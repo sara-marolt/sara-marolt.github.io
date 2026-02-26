@@ -4,13 +4,9 @@ description: Statistical modelling | Seabird Ecology
 remote_theme: hydecorp/hydejack
 plugins:
   - jekyll-remote-theme
-  
-image:
-  path:    /assets/images/profile.jpg
-  srcset:
-    1920w: /assets/images/profile.jpg
-    960w:  /assets/images/profile.,5x.jpg
-    480w:  /assets/images/profile.,25x.jpg
+
+author:
+  picture:  /assets/img/profile.jpg
 
 menu:
   - title: Home
