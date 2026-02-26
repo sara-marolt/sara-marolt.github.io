@@ -3,11 +3,13 @@ layout: page
 title: Ringing
 permalink: /ringing/
 ---
-
 # Ringing
 
-## Stora Karlsö
+
+
 <img src="/assets/images/profile.jpg" alt="Sara Marolt" width="250" style="float: right; margin-left: 20px; border-radius: 10px;">
+
+## Stora Karlsö
 
 In the summer of 2025 I joined the **Baltic Seabird Project** research team in Stora Karlsö to help them with the guillemot ringing season. 
 Here I aided team with guillemot ringing, chick monitoring, data entry, as well as eider and razorbill surveys.
