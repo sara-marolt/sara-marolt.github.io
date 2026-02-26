@@ -1,7 +1,4 @@
-/* Resize Hydejack sidebar avatar */
-.sidebar .author img {
-    width: 120px;      /* adjust width to your liking */
-    height: auto;      /* keeps aspect ratio */
-    display: block;    /* ensures proper layout */
-    margin: 0 auto;    /* centers the avatar */
+.sidebar .sidebar-about img {
+  max-width: 160px;
+  border-radius: 50%;   /* makes it circular */
 }
