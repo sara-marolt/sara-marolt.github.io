@@ -5,7 +5,7 @@ title: CV
 
 # Sara Marolt
 
-📧 saralina2001@gmail.com | 📞 UK: +447491010044 | SWE: +46704550087
+📧 saralina2001@gmail.com 
 
 ---
 
