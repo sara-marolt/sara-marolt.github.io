@@ -32,6 +32,6 @@ During the autumn season in 2025, I also had the opportunity to assist with ring
 
 ## Upplands Ornitologiska Förening
 
-Throoughout 2025 and 2026, I have been working alongside **Upplands Ornithological Association** to set up a Constant Effort Site (CES) in Uppsala to promote ringing and birding to the public.
+Throughout 2025 and 2026, I have been working alongside **Upplands Ornithological Association** to set up a Constant Effort Site (CES) in Uppsala to promote ringing and birding to the public.
 Through this role, I am learning about the process of setting up a ringing station, including practical tasks and communication with the local community and land owners. 
 Additionally, trough this role, I am responsible for helping to educate and communicate the role of UOF in Uppsala and to assist with bird ringing around various locations in Uppland. 
