@@ -15,6 +15,8 @@ In the summer of 2025 I joined the **Baltic Seabird Project** research team in S
 Here I aided team with guillemot ringing, chick monitoring, data entry, as well as eider and razorbill surveys.
 Additionally, I got the opportunity to assist with maintenance of the artificial cliffside (Auk Lab), including the upkeep of monitoring cameras.
 
+<img src="/assets/images/ottenby.JPB" alt="Sara Marolt" width="250" style="float: right; margin-left: 20px; border-radius: 10px;">
+
 ## Ottenby
 In the summer and autumn season of 2025 I worked as a **Ringing Assistant** at **Ottenby Bird Observatory (BirdLife)**. In this role my main responsibility included assisting in standardised ringing at Ottenby Fågelstation during the standardised trapping season.
 Through this I aided with trapping and extracting birds from mist nets, Heligoland traps and wader cages. Additionally, during my period at Ottenby, I aided with waterfowl sampling (Blood, oropharyngeal and cloacal).
