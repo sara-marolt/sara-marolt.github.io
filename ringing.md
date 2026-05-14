@@ -7,7 +7,7 @@ permalink: /ringing/
 
 
 
-<img src="/assets/images/profile.jpg" alt="Sara Marolt" width="250" style="float: right; margin-left: 20px; border-radius: 10px;">
+<img src="/assets/images/razorbill.jpg" alt="Sara Marolt" width="250" style="float: right; margin-left: 20px; border-radius: 10px;">
 
 ## Stora Karlsö
 
