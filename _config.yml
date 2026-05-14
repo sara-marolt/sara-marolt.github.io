@@ -12,7 +12,8 @@ author:
   picture: /assets/img/profile.jpg
   social:
     email: saralina2001@gmail.com
-    - { platform: linkedin, user_url: "https://www.linkedin.com/in/sara-marolt-15957a19a/" }
+    linkedin: sara-marolt-15957a19a
+    
 
 menu:
   - title: Home
