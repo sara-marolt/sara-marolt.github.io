@@ -16,11 +16,13 @@ permalink: /research/
 - Investigated seabird–prey interactions in pelagic systems
 
 **Awards**
+
 Student scholarship from the **Palm foundation** for Scientific Research for the work completed on my thesis.
 
 **Thesis Day Selected Presenter** - one of five students chosen across all bachelor's and master's thesis projects to present thesis findings.
 
 **Conference**
+
 4 World Seabird Conference, Tasmania
 
 Selected to hold an **oral presentation** on my Master’s Thesis ‘Seabird- mediated spatiotemporal dynamics of pelagic fish in the Baltic Sea’ under the theme **Foraging Ecology**.
