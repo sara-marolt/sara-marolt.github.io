@@ -1,31 +1,43 @@
 title: Sara Marolt
 description: Seabird Ecology | Statistical modelling
+url: "https://YOUR-USERNAME.github.io"
+locale: en-US
 
-remote_theme: hydecorp/hydejack
+remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: mint   # try: default, dirt, sunrise, aqua, air, neon
+
 plugins:
   - jekyll-remote-theme
-include:
-  - assets/css/custom.css
-author:
-  about: |
-    Ecology and Conservation Masters student at Uppsala University
-  picture: /assets/img/profile.jpg
-  social:
-    email: saralina2001@gmail.com
-    linkedin: https://www.linkedin.com/in/sara-marolt-15957a19a/
-    
+  - jekyll-include-cache      # required by Minimal Mistakes
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-sitemap
 
-menu:
-  - title: Home
-    url: /
-  - title: Research
-    url: /research/
-  - title: Ringing
-    url: /ringing/
-  - title: CV
-    url: /cv/
-
-# Hydejack settings
-accent_color: rgb(0, 88, 80)
 paginate: 5
 paginate_path: "/page:num/"
+
+author:
+  name: Sara Marolt
+  avatar: /assets/img/profile.jpg
+  bio: "PhD Student at the Animal Flight Lab, Lund University"
+  links:
+    - label: Email
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:sara.marolt@biol.lu.se"
+    - label: LinkedIn
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/sara-marolt-15957a19a/"
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
