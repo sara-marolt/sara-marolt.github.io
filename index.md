@@ -1,6 +1,11 @@
 ---
-layout: default
+layout: home
 title: About Me
+author_profile: true
+header:
+  overlay_image: /assets/images/hero.jpg
+  overlay_filter: 0.4
+excerpt: "Migration ecology | Statistical modelling"
 ---
 
 <img src="/assets/images/profile.jpg" alt="Sara Marolt" width="250" style="float: right; margin-left: 20px; border-radius: 10px;">
