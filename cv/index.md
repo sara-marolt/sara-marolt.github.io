@@ -1,11 +1,11 @@
 ---
-layout: page
+layout: single
 title: CV
 ---
 
 # Sara Marolt
 
-📧 saralina2001@gmail.com 
+📧 sara.marolt@biol.lu.se
 
 ---
 
