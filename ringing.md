@@ -2,36 +2,55 @@
 layout: single
 title: Ringing
 permalink: /ringing/
+author_profile: true
+header:
+  overlay_image: /assets/images/ringing-hero.jpg
+  overlay_filter: 0.4
+excerpt: "Bird ringing and monitoring across Sweden"
 ---
-# Ringing
 
-
-
-<img src="/assets/images/razorbill.jpg" alt="Sara Marolt" width="250" style="float: right; margin-left: 20px; border-radius: 10px;">
+Bird ringing is a core part of my fieldwork. Over the past year I have worked at ringing stations and research sites across Sweden, from seabird colonies to migration observatories.
 
 ## Stora Karlsö
+{: #stora-karlso}
 
-In the summer of 2025 I joined the **Baltic Seabird Project** research team in Stora Karlsö to help them with the guillemot ringing season. 
-Here I aided team with guillemot ringing, chick monitoring, data entry, as well as eider and razorbill surveys.
-Additionally, I got the opportunity to assist with maintenance of the artificial cliffside (Auk Lab), including the upkeep of monitoring cameras.
+<figure class="align-right" style="width: 280px">
+  <img src="/assets/images/razorbill.jpg" alt="Razorbill on Stora Karlsö">
+  <figcaption>Razorbill, Stora Karlsö.</figcaption>
+</figure>
 
+In the summer of 2025 I joined the **Baltic Seabird Project** research team on Stora Karlsö for the guillemot ringing season. My work included:
 
-## Ottenby
-In the summer and autumn season of 2025 I worked as a **Ringing Assistant** at **Ottenby Bird Observatory (BirdLife)**. In this role my main responsibility included assisting in standardised ringing at Ottenby Fågelstation during the standardised trapping season.
-Through this I aided with trapping and extracting birds from mist nets, Heligoland traps and wader cages. Additionally, during my period at Ottenby, I aided with waterfowl sampling (Blood, oropharyngeal and cloacal).
-Alongside ringing, additional tasks included data entry, guided tours (in both English and Swedish), and additional practical conservation tasks, such as trap and vegetation maintenance.
+- Guillemot ringing and chick monitoring
+- Data entry
+- Eider and razorbill surveys
+- Maintenance of the artificial cliffside (Auk Lab), including upkeep of monitoring cameras
 
-Alongside the practical work, I also spent time working in the Naturum Museum and the Naturbutiken gift shop.
+## Ottenby Bird Observatory
 
-<img src="/assets/images/ottenby.JPG" alt="Sara Marolt" width="250" style="float: right; margin-left: 20px; border-radius: 10px;">
+<figure class="align-left" style="width: 280px">
+  <img src="/assets/images/ottenby.JPG" alt="Ringing at Ottenby Bird Observatory">
+  <figcaption>Ottenby Bird Observatory, Öland.</figcaption>
+</figure>
 
+During the summer and autumn of 2025 I worked as a **Ringing Assistant** at **Ottenby Bird Observatory (BirdLife)**, assisting with standardised ringing throughout the trapping season. My work included:
 
-## Landsort
+- Extracting birds from mist nets, Heligoland traps and wader cages
+- Waterfowl sampling (blood, oropharyngeal and cloacal)
+- Data entry
+- Guided tours in English and Swedish
+- Practical conservation work such as trap and vegetation maintenance
 
-During the autumn season in 2025, I also had the opportunity to assist with ringing at Landsort Bird Observatory. 
+I also spent time working in the Naturum museum and the Naturbutiken gift shop.
+
+## Landsort Bird Observatory
+
+In autumn 2025 I also assisted with ringing at Landsort Bird Observatory.
 
 ## Upplands Ornitologiska Förening
 
-Throughout 2025 and 2026, I have been working alongside **Upplands Ornithological Association** to set up a Constant Effort Site (CES) in Uppsala to promote ringing and birding to the public.
-Through this role, I am learning about the process of setting up a ringing station, including practical tasks and communication with the local community and land owners. 
-Additionally, trough this role, I am responsible for helping to educate and communicate the role of UOF in Uppsala and to assist with bird ringing around various locations in Uppland. 
+Throughout 2025 and 2026 I have been working with **Upplands Ornitologiska Förening (BirdLife Uppland)** to set up a Constant Effort Site (CES) in Uppsala. The aim is to promote ringing and birding to the public. In this role I:
+
+- Learn how to set up a ringing station, from practical tasks to liaising with the local community and landowners
+- Communicate the role of UOF to the public through outreach and education
+- Assist with ringing at various sites around Uppland
