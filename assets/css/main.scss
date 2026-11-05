@@ -7,6 +7,10 @@ $footer-background-color: #005850;
 
 @import "minimal-mistakes";
 
+.author__avatar img {
+  border-radius: 12px;
+}
+
 .page__footer {
   background-color: #005850;
   color: #fff;
