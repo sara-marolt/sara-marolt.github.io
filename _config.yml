@@ -18,7 +18,7 @@ paginate_path: "/page:num/"
 
 author:
   name: Sara Marolt
-  avatar: /assets/img/profile.jpg
+  avatar: /assets/images/profile.jpg
   bio: "PhD Student at the Animal Flight Lab, Lund University"
   links:
     - label: Email
