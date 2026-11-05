@@ -1,6 +1,7 @@
 ---
 layout: single
 title: Ringing
+permalink: /ringing/
 ---
 # Ringing
 
