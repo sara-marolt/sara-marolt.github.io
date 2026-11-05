@@ -1,0 +1,23 @@
+---
+---
+@charset "utf-8";
+
+$primary-color: #005850;
+$footer-background-color: #005850;
+
+@import "minimal-mistakes";
+
+.page__footer {
+  background-color: #005850;
+  color: #fff;
+
+  a,
+  .page__footer-follow li,
+  .page__footer-copyright {
+    color: #fff;
+  }
+
+  a:hover {
+    color: #cfe8e4;
+  }
+}
