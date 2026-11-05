@@ -9,7 +9,7 @@ header:
 excerpt: "Bird ringing and monitoring across Sweden"
 ---
 
-Bird ringing is a core part of my fieldwork. Over the past year I have worked at ringing stations and research sites across Sweden, from seabird colonies to migration observatories.
+Bird ringing is a core part of my fieldwork. Over the past 2 years I have worked at ringing stations and research sites across Sweden, from seabird colonies to migration observatories.
 
 ## Stora Karlsö
 {: #stora-karlso}
@@ -33,7 +33,7 @@ In the summer of 2025 I joined the **Baltic Seabird Project** research team on S
   <figcaption>Ottenby Bird Observatory, Öland.</figcaption>
 </figure>
 
-During the summer and autumn of 2025 I worked as a **Ringing Assistant** at **Ottenby Bird Observatory (BirdLife)**, assisting with standardised ringing throughout the trapping season. My work included:
+During the summer and autumn of 2025, as well as autumn 2026, I worked as a **Ringing Assistant** at **Ottenby Bird Observatory (BirdLife)**, assisting with standardised ringing throughout the trapping season. My work included:
 
 - Extracting birds from mist nets, Heligoland traps and wader cages
 - Waterfowl sampling (blood, oropharyngeal and cloacal)
