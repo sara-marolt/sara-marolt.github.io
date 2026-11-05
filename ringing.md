@@ -52,5 +52,4 @@ In autumn 2025 I also assisted with ringing at Landsort Bird Observatory.
 Throughout 2025 and 2026 I have been working with **Upplands Ornitologiska Förening (BirdLife Uppland)** to set up a Constant Effort Site (CES) in Uppsala. The aim is to promote ringing and birding to the public. In this role I:
 
 - Learn how to set up a ringing station, from practical tasks to liaising with the local community and landowners
-- Communicate the role of UOF to the public through outreach and education
 - Assist with ringing at various sites around Uppland
