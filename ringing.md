@@ -4,7 +4,7 @@ title: Ringing
 permalink: /ringing/
 author_profile: true
 header:
-  overlay_image: /assets/images/ringing-hero.heic
+  overlay_image: /assets/images/ringing-hero.JPG
   overlay_filter: 0.4
 excerpt: "Bird ringing and monitoring across Sweden"
 ---
