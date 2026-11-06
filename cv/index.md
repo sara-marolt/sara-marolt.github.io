@@ -11,8 +11,12 @@ title: CV
 
 ## Work Experience
 
+### Animal Flight Lab, Lund University
+**PhD Student** | October 2026 – Present
+
+
 ### Baltic Seabird Project, Uppsala
-**Masters Student** | July 2025 – Current
+**Masters Student** | July 2025 – June 2026
 
 - Currently completing master's thesis: *Seabird-mediated spatiotemporal dynamics of pelagic fish in the Baltic Sea*
 - Conducting acoustic analysis of pelagic fish distribution in the Baltic Sea using drone-derived acoustic data
@@ -25,7 +29,7 @@ title: CV
 ---
 
 ### Upplands Ornitologiska Förening (BirdLife Uppland), Uppsala
-**Ringing Assistant** | September 2025 – Current
+**Ringing Assistant** | September 2025 – September 2026
 
 - Working alongside Upplands Ornithological Association to set up a Constant Effort Site in Uppsala
 - Communicated the role of Upplands Ornithological Association to the public through outreach and educational activities
